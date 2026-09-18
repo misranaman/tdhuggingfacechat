@@ -3,7 +3,7 @@ title: OpenAI Chatbot QA
 emoji: 🤖
 colorFrom: blue
 colorTo: indigo
-sdk: streamlit
+sdk: gradio
 app_file: chat_qa.py
 pinned: false
 ---
